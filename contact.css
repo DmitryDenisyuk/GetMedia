@@ -1,0 +1,39 @@
+html {
+  height: 100%;
+  box-sizing: border-box;
+  margin: 0;
+  background: url("background.jpg");
+  background-size: 100% 100%;
+}
+
+#text {
+  position: absolute;
+  width: 100%;
+  top: 10%;
+}
+
+body {
+  color: white;
+}
+
+#main-nav {
+  background-color: #27455f;
+}
+
+footer {
+  color: white;
+  background-color: #27455f;
+}
+
+footer p {
+  margin: 10px;
+}
+
+.icons {
+  padding-left: 20px;
+}
+
+.contact {
+  padding-top: 20px;
+  padding-left: 50px;
+}

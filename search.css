@@ -1,0 +1,44 @@
+.mainJS {
+  margin-top: 100px;
+  background-color: transparent;
+  background: url("background.jpg") center no-repeat;
+  background-size: 100% 100%;
+  position: relative;
+  color: white;
+  margin-bottom: 100px;
+}
+
+main {
+  text-align: center;
+}
+
+table {
+  margin-left: 30%;
+  margin-right: 30%;
+  text-align: center;
+}
+
+#main-nav {
+  background-color: #27455f;
+}
+
+footer {
+  color: white;
+  background-color: #27455f;
+}
+
+footer p {
+  margin: 10px;
+}
+
+#search-button {
+  background-color: #1842b0;
+  color: white;
+  border: none;
+  padding: 4px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 8px;
+}

@@ -1,0 +1,50 @@
+html {
+  height: 100%;
+  box-sizing: border-box;
+  margin: 0;
+  background: url("background.jpg");
+  background-size: 100% 100%;
+}
+
+#text {
+  position: absolute;
+  width: 100%;
+  top: 10%;
+  padding-bottom: 60px;
+}
+
+body {
+  color: white;
+}
+
+.itunes-card {
+  width: 90%;
+}
+
+.quantity {
+  width: 50px;
+  height: 30px;
+}
+
+.quantity-block {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.details {
+  padding-top: 24px;
+}
+
+#main-nav {
+  background-color: #27455f;
+}
+
+footer {
+  color: white;
+  background-color: #27455f;
+}
+
+footer p {
+  margin: 10px;
+}

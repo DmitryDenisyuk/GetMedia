@@ -1,0 +1,48 @@
+html {
+  height: 100%;
+  box-sizing: border-box;
+  margin: 0;
+  background: url("background.jpg") center no-repeat;
+  background-size: 100% 100%;
+}
+
+#text {
+  position: absolute;
+  width: 100%;
+  top: 38%;
+  text-align: center;
+  color: white;
+}
+
+#button {
+  background-color: #1842b0;
+  color: white;
+  border: none;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 8px;
+}
+
+h1 {
+  font-size: 80px;
+}
+
+#banner {
+  font-size: 30px;
+}
+
+#main-nav {
+  background-color: #27455f;
+}
+
+footer {
+  color: white;
+  background-color: #27455f;
+}
+
+footer p {
+  margin: 10px;
+}
